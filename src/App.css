@@ -1,2 +1,14 @@
 .App {
+    padding: 50px;
+    display: flex;
+    font-size: 14px;
+    justify-content: space-around;
+    flex-wrap: wrap;
+}
+.Apploading{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100%
+
 }
